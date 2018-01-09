@@ -6,9 +6,12 @@ your data from the iphone 'health' app.
 Next, it will need to be converted from an XML to a CSV.
 Personally, I used [this pre-made applehealthdata.py script](https://github.com/tdda/applehealthdata)
 
-From here its a fairly straightforward case of placing the CSV in the
-'data' folder and running the jupyter notebook.
+From here its a fairly straightforward case of placing the CSV in a
+folder named 'data' (iphone_activity_data/data) and running the jupyter
+notebook.
 
 ---
 
 Requires Python 3 (and other dependencies are printed in the notebook)
+
+
