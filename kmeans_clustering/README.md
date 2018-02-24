@@ -1,4 +1,4 @@
-### K-means clustering Fifa 18 data :football:
+### K-means clustering Fifa 18 data :soccer:
 
 The data I used for this is from the EA Sports game - FIFA 18.
 I downloaded it as a Kaggle dataset here:
