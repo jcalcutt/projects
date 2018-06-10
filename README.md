@@ -15,7 +15,7 @@ Premier league players attributes are subject to PCA and K-means
 clustering, from which their similarities in playing styles are visually
 compared.
 
-:iphone: <b>NLP_whatsapp</b> An example of how the NLTK library
+:incoming_envelope: <b>nlp_whatsapp</b> An example of how the NLTK library
 can be used to gain insight from textual data.
 Classifying Dialogue, POS tagging, Lexical Diversity, Emojis, Sentiment,
 and an added bonus of some time series analysis.
