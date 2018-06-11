@@ -5,8 +5,7 @@ For this, I wanted to grow my own understanding of the NLTK library,
 whilst finding some interesting insight in some of my own textual,
 WhatsApp data.
 
-The .ipynb file may take a while to load, so have a look at the .html
-instead if you just want to have a quick peek in your browser.
+The .ipynb file may take a while to load in the browser...
 
 To download your own WhatsApp data: In a chat, click on the chat name/
 contacts name (at the top) and then near the bottom of the info page
