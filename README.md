@@ -15,7 +15,11 @@ Premier league players attributes are subject to PCA and K-means
 clustering, from which their similarities in playing styles are visually
 compared.
 
-:incoming_envelope: <b>nlp_whatsapp</b> An example of how the NLTK library
+:incoming_envelope: <b>nlp_whatsapp:</b> An example of how the NLTK library
 can be used to gain insight from textual data.
 Classifying Dialogue, POS tagging, Lexical Diversity, Emojis, Sentiment,
 and an added bonus of some time series analysis.
+
+:trophy: <b>fantasy_premier_league:</b> I probably spend too much time
+on Fantasy Premier League... Here, I use the FPL python API wrapper to
+download some of my leagues data to (ultimately) make some nice plots.

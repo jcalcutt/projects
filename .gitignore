@@ -1,2 +1,2 @@
 .idea
-kmeans_clustering/.ipynb_checkpoints
+*.ipynb_checkpoints
